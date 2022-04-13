@@ -4,6 +4,14 @@ Many people often take where they live for granted, even in urban locales surrou
 
 [An Introduction to Food Finder](https://docs.google.com/presentation/d/18xuyFBQ4i-O3lLa5vpeEBHfx4rvo2I6NJQ5TWFbmqzM/)
 
+## Installation
+
+The first time you run Food Finder, you will get a console 403 error.
+
+- Click on the "https://cors-anywhere.herokuapp.com/" link and allow temporary access.
+- Return back to Food Finder and refresh the page.
+- You should have no longer have any issues finding great food!
+
 ## Built With
 
 - HTML
@@ -37,14 +45,6 @@ The main design uses a combination of HTML, CSS and Javascript.
 
 This site has been published via [Github Pages](https://bootcampProjectOneTeamFour.github.io/food-finder/)
 The repository has been stored on [Github](https://github.com/bootcampProjectOneTeamFour/food-finder)
-
-## Installation
-
-The first time you run Food Finder, you will get a console 403 error.
-
-- Click on the "https://cors-anywhere.herokuapp.com/" link and allow temporary access.
-- Return back to Food Finder and refresh the page.
-- You should have no longer have any issues finding great food!
 
 ## License
 
